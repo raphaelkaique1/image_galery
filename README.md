@@ -11,15 +11,14 @@ Este é um projeto simples de uma galeria de imagens, desenvolvido com HTML, CSS
 ## Estrutura do Projeto
 
 ```plaintext
-projects/
-├── galeria_de_imagens/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   ├── index.html
-│   ├── LICENSE
-│   └── README.md
+galeria_de_imagens/
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── index.html
+├── LICENSE
+└── README.md
 ```
 
 ![Image](https://github.com/user-attachments/assets/d3cc24f9-a392-4c84-9368-2cb4f7247887)
