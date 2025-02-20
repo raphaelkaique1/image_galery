@@ -21,7 +21,7 @@ galeria_de_imagens/
 └── README.md
 ```
 
-![Image](https://github.com/user-attachments/assets/d3cc24f9-a392-4c84-9368-2cb4f7247887)
+<a href="https://raphaelkaique1.github.io/image_galery/"><img src="https://github.com/user-attachments/assets/d3cc24f9-a392-4c84-9368-2cb4f7247887"/></a>
 
 ---
 
