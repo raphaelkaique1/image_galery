@@ -26,4 +26,4 @@ projects/
 
 ---
 
-[**<-**](https://github.com/raphaelkaique1/study/blob/main/coding/projects/)
+<div align="center">Copyright &copy; 2025 <a href="https://github.com/raphaelkaique1">Raphael Kaíque Dias Santos</a></div>
